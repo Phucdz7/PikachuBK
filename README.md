@@ -12,8 +12,8 @@
 ---
 
 ## 📦 **Các phiên bản đã build**
-- **Android (APK):** [Link tải APK](https://github.com/Phucdz7/PikachuBK/blob/main/Build/PikachuBK.apk) .
-- **Windows:** [Link tải bản Windows](https://github.com/Phucdz7/PikachuBK/tree/main/Build/PikachuBk)
+- **Android (APK):** [Link tải APK](https://github.com/Phucdz7/PikachuBK/blob/main/Build/PikachuBK.apk)
+- **Windows:** [Link tải bản Windows](https://github.com/Phucdz7/PikachuBK/tree/main/Build/PikachuBk.
 
 ---
 
